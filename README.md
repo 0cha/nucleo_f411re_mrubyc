@@ -6,9 +6,9 @@ mruby/c run on Nucleo F411RE using HAL Library
 blink LED
 
 # Development
-- [platformIO][https://platformio.org/]
-- [mruby][https://github.com/mruby/mruby]
-- [mruby/c][https://github.com/mrubyc/mrubyc]
+- [platformIO](https://platformio.org/)
+- [mruby](https://github.com/mruby/mruby)
+- [mruby/c](https://github.com/mrubyc/mrubyc)
 
 # Build and runs
 ```
